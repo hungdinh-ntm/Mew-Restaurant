@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd2b2e1c67f46346be8860422cd92b6, type: 3}
+  m_Name: LettuceOnion
+  m_EditorClassIdentifier: 
+  ingredients:
+  - foodSO: {fileID: 11400000, guid: d0c401173e3496d4395df3f326d10176, type: 2}
+    foodCount: 1
+  - foodSO: {fileID: 11400000, guid: 38f90e5224f7d224a871befa90ce2591, type: 2}
+    foodCount: 1
+  result: {fileID: 11400000, guid: 1ee7007725f72574babfac8eff991bda, type: 2}

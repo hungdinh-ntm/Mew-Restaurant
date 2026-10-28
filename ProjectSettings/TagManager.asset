@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Counter
+  - Water
+  - UI
+  - Customer
+  - Player
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1405088851
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Counter
+    uniqueID: 3385541945
+    locked: 0
+  - name: Tools
+    uniqueID: 2477793581
+    locked: 0
+  - name: Items
+    uniqueID: 3126842505
+    locked: 0
+  - name: Player
+    uniqueID: 1603876631
+    locked: 0
+  - name: Bubble
+    uniqueID: 4040460745
+    locked: 0
+  - name: UI
+    uniqueID: 1225232505
+    locked: 0
